@@ -11,14 +11,11 @@ html, body{
 
 header{
     display: flex;
-    width: 95%;
 }
 nav{
     background-color:  #fef7e2;
     display: flex;
     flex-direction: column;
-
-    
 }
 
 button{
