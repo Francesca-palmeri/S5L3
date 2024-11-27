@@ -1,0 +1,25 @@
+html, body{
+    margin: 0;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+*{
+    box-sizing: border-box;
+    color: #742305;
+}
+
+nav{
+    background-color:  #fef7e2;
+}
+
+button{
+    display: flex;
+    background-color: #ffdf7e ;
+    border-radius: 50px;
+}
+
+button img{
+    width: 40px;
+    height: 40px;
+}
